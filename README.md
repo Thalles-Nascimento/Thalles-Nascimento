@@ -15,8 +15,9 @@ Estou sempre buscando aprofundar conhecimentos e trocar experiências sobre dese
 #
 # 🚀 Projetos
 - [ZenixApp](https://github.com/Thalles-Nascimento/zenix-app) - Sistema de gestão para barbearias, com fila de atendimento, controle financeiro e planos de assinatura (backend em Spring Boot e frontend em React).
+- [ZenixDraw - Ms Sorteio](https://github.com/Thalles-Nascimento/ZD-ms-sorteio) - Microsserviços para sortear times de futebol.
+- [ZenixDraw - API Gateway](https://github.com/Thalles-Nascimento/ZD-api-gateway) - API Gateway do ecossistema do ZenixDraw.
 - [Categorizador de E-mail com IA](https://github.com/Thalles-Nascimento/categorizador-email) - Classifica e-mails automaticamente como "Produtivo" ou "Improdutivo" e sugere respostas, usando o modelo GPT-4o-mini da OpenAI.
-- [Exercícios em Golang](https://github.com/Thalles-Nascimento/golang-exercises) - Coleção de exercícios práticos para treinar sintaxe e conceitos fundamentais da linguagem Go.
 - [Pipeline ETL](https://github.com/Thalles-Nascimento/pipeline-etl) - Projeto de estudo sobre processos de ETL (Extract, Transform, Load).
 #
 # 📚 Competências
